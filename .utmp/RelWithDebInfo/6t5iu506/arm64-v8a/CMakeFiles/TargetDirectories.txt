@@ -1,0 +1,5 @@
+/Users/agustrodmar/Downloads/tinder-de-pelis-agustrodmar-master/.utmp/RelWithDebInfo/6t5iu506/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/agustrodmar/Downloads/tinder-de-pelis-agustrodmar-master/.utmp/RelWithDebInfo/6t5iu506/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/agustrodmar/Downloads/tinder-de-pelis-agustrodmar-master/.utmp/RelWithDebInfo/6t5iu506/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/agustrodmar/Downloads/tinder-de-pelis-agustrodmar-master/.utmp/RelWithDebInfo/6t5iu506/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/agustrodmar/Downloads/tinder-de-pelis-agustrodmar-master/.utmp/RelWithDebInfo/6t5iu506/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
